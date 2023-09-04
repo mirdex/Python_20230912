@@ -12,3 +12,4 @@
 #### 課程大綱
 - [1. 環境建置](http://mirdex.github.io/Python_20230829/1.%20environment.slides.html)
 - [2. 程式基本概念](http://mirdex.github.io/Python_20230829/2.%20basic%20concept.slides.html)
+- [3. 流程控制](http://mirdex.github.io/Python_20230829/3.%20流程控制(Q).slides.html)
