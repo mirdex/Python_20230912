@@ -18,3 +18,4 @@
 - [補充教材 - 字串常搭配使用函數](http://mirdex.github.io/Python_20230912/5-1.%20補充%20-%20字串常搭配使用函數_Q.slides.html)
 - [6. 再談資料結構](http://mirdex.github.io/Python_20230912/6.%20再談資料結構_Q.slides.html)
 - [7. 函數](http://mirdex.github.io/Python_20230912/7.%20函數_Q.slides.html)
+- [補充教材 - 變數與生命週期](http://mirdex.github.io/Python_20230912/9.%20變數與生命週期.slides.html)
