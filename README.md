@@ -22,3 +22,4 @@
 - [8. 類別](http://mirdex.github.io/Python_20230912/8.%20類別_Q.slides.html)
 - [9. 例外處理](http://mirdex.github.io/Python_20230912/10.%20例外處理.slides.html)
 - [10. 總複習一](http://mirdex.github.io/Python_20230912/0.%20Python前言(Q).slides.html)
+- [11. 總複習二](http://mirdex.github.io/Python_20230912/1.%20模組開發(Q).slides.html)
